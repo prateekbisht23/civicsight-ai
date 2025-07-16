@@ -41,7 +41,7 @@ Detect and report urban infrastructure issues like potholes, trash, and signage 
 ## 🚀 Local Setup
 
 ```bash
-git clone https://github.com/yourname/civicsight-ai
+git clone https://github.com/prateekbisht23/civicsight-ai
 cd civicsight-ai
 cp .env.example .env
 docker-compose up --build
